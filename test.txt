@@ -1,2 +1,3 @@
-Initialize for test AAA
+Initialize for test AAA BBB
 This is the featrure of devA
+This is the feature developed by DevB
